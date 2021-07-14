@@ -10,11 +10,11 @@ import (
 	"strings"
 )
 
-const HuginnBaseUrl = "http://ct.mazhangjing.com:8099"
-const HuginnLoginUrl = "http://ct.mazhangjing.com:8099/login"
+var HuginnBaseUrl = "http://ct.mazhangjing.com:8099"
+var HuginnLoginUrl = "http://ct.mazhangjing.com:8099/login"
 
-const USERNAME = "corkine"
-const PASSWORD = "spring123456"
+var USERNAME = "corkine"
+var PASSWORD = "spring123456"
 
 //Task 指的是一条查询的结构
 type Task struct {
