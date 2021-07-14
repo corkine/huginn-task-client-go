@@ -1,4 +1,4 @@
-module mazhangjing.com/huginnclient
+module gitee.com/corkine/go-huginn-task-client
 
 go 1.16
 
