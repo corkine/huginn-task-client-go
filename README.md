@@ -3,9 +3,9 @@
 Usage:
 ```
 //go.mod
-require mazhangjing.com/huginnclient v1.8.0
+require mazhangjing.com/huginnclient v1.10.0
 replace (
-	mazhangjing.com/huginnclient v1.8.0 => gitee.com/corkine/go-huginn-task-client v1.8.0
+	mazhangjing.com/huginnclient v1.10.0 => gitee.com/corkine/go-huginn-task-client v1.10.0
 )
 ```
 ```go
