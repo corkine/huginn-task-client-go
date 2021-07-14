@@ -1,4 +1,4 @@
-module goScore
+module mazhangjing.com/huginn
 
 go 1.16
 
