@@ -1,4 +1,4 @@
-module mazhangjing.com/huginn
+module mazhangjing.com/huginnclient
 
 go 1.16
 
