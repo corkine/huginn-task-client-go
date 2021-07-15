@@ -3,17 +3,14 @@
 Usage:
 ```
 //go.mod
-require mazhangjing.com/huginnclient v1.10.0
-replace (
-	mazhangjing.com/huginnclient v1.10.0 => gitee.com/corkine/go-huginn-task-client v1.10.0
-)
+require "repo.mazhangjing.com/go-huginn-task-client" latest
 ```
 ```go
 package main
 
 import (
 	"fmt"
-	"mazhangjing.com/huginnclient/huginn"
+	"repo.mazhangjing.com/go-huginn-task-client/huginn"
 )
 
 func main() {
