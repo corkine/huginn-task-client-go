@@ -1,4 +1,4 @@
-module go.mazhangjing.com/huginnclient
+module repo.mazhangjing.com/go-huginn-task-client
 
 go 1.16
 
